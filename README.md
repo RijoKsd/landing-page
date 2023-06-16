@@ -1,5 +1,5 @@
 # landing-page
-Thi is a landing page  of [odin](https://www.theodinproject.com/) project.
+This is a project from [odin](https://www.theodinproject.com/) project.
 
 What is the Odin project for?
 <br>
